@@ -1,0 +1,23 @@
+Doing PCA Analysis
+K: 2 run: 0
+K: 4 run: 0
+K: 8 run: 0
+K: 16 run: 0
+K: 32 run: 0
+For 10 classes with PCA, the best K is 8 with SC 0.1749584512386681
+NMI for 10 classes and k=8 is 0.21821929169235632
+K: 2 run: 0
+K: 4 run: 0
+K: 8 run: 0
+K: 16 run: 0
+K: 32 run: 0
+For 4 classes with PCA, the best K is 4 with SC 0.1812138170073036
+NMI for 4 classes and k=4 is 0.3397325202114306
+K: 2 run: 0
+K: 4 run: 0
+K: 8 run: 0
+K: 16 run: 0
+K: 32 run: 0
+For 2 classes with PCA, the best K is 2 with SC 0.2785830221391786
+NMI for 2 classes and k=2 is 0.46098308698029816
+Completed PCA Analysis

@@ -1,0 +1,20 @@
+Performing hierarchical clustering
+For 10 classes with single linkage, the best K is 40 with SC 0.4193241602369417
+NMI for single linkage with 10 classes 0.38479132262384314
+For 10 classes with complete linkage, the best K is 10 with SC 0.5131400263494503
+NMI for complete linkage with 10 classes 0.4027527247228516
+For 10 classes with average linkage, the best K is 12 with SC 0.5088962579506063
+NMI for average linkage with 10 classes 0.40173392612643843
+For 4 classes with single linkage, the best K is 4 with SC 0.7132032919670139
+NMI for single linkage with 4 classes 0.45289285189177164
+For 4 classes with complete linkage, the best K is 4 with SC 0.7132032919670139
+NMI for complete linkage with 4 classes 0.45289285189177164
+For 4 classes with average linkage, the best K is 4 with SC 0.7132032919670139
+NMI for average linkage with 4 classes 0.45289285189177164
+For 2 classes with single linkage, the best K is 2 with SC 0.8717319413740467
+NMI for single linkage with 2 classes 0.5
+For 2 classes with complete linkage, the best K is 2 with SC 0.8717319413740467
+NMI for complete linkage with 2 classes 0.5
+For 2 classes with average linkage, the best K is 2 with SC 0.8717319413740467
+NMI for average linkage with 2 classes 0.5
+Hierarchical clustering complete
